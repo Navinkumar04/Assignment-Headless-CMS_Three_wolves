@@ -1,3 +1,9 @@
+# team name : Three Wolves
+Team mates
+1.Navin Kumar (leader)
+2.Suzal Verma (Member)
+3.Manoj Chumber (Member)
+
 # Headless-CMS
 
 Headless-CMS-project
