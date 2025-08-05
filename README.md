@@ -1,12 +1,12 @@
-Team Name: Three Wolves
-Team Members
-Navin Kumar (Leader)
+# Team Name: Three Wolves
+# Team Members
+ Navin Kumar (Leader)
 
-Suzal Verma (Member)
+ Suzal Verma (Member)
 
-Manoj Chumber (Member)
+ Manoj Chumber (Member)
 
-Headless CMS Project
+# Headless CMS Project
 Completed Tasks
 ✅ Headless CMS has been created and populated with review data. The data is available through a REST API.
 
