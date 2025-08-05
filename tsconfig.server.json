@@ -1,0 +1,64 @@
+{
+  "compilerOptions": {
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "target": "ESNext",
+    "module": "ESNext",
+    "moduleResolution": "Node",
+    "allowJs": true,
+    "resolveJsonModule": true,
+    "jsx": "preserve",
+    "jsxFactory": "h",
+    "jsxFragmentFactory": "Fragment",
+    "paths": {
+      "#imports": [
+        "C:/Users/nk707/Downloads/Headless-CMS-test-main/Headless-CMS-test-main/.nuxt/types/nitro-imports"
+      ],
+      "#paths": [
+        "C:/Users/nk707/Downloads/Headless-CMS-test-main/Headless-CMS-test-main/node_modules/nuxt/dist/core/runtime/nitro/paths"
+      ],
+      "~": [
+        "C:/Users/nk707/Downloads/Headless-CMS-test-main/Headless-CMS-test-main"
+      ],
+      "~/*": [
+        "C:/Users/nk707/Downloads/Headless-CMS-test-main/Headless-CMS-test-main/*"
+      ],
+      "@": [
+        "C:/Users/nk707/Downloads/Headless-CMS-test-main/Headless-CMS-test-main"
+      ],
+      "@/*": [
+        "C:/Users/nk707/Downloads/Headless-CMS-test-main/Headless-CMS-test-main/*"
+      ],
+      "~~": [
+        "C:/Users/nk707/Downloads/Headless-CMS-test-main/Headless-CMS-test-main"
+      ],
+      "~~/*": [
+        "C:/Users/nk707/Downloads/Headless-CMS-test-main/Headless-CMS-test-main/*"
+      ],
+      "@@": [
+        "C:/Users/nk707/Downloads/Headless-CMS-test-main/Headless-CMS-test-main"
+      ],
+      "@@/*": [
+        "C:/Users/nk707/Downloads/Headless-CMS-test-main/Headless-CMS-test-main/*"
+      ],
+      "assets": [
+        "C:/Users/nk707/Downloads/Headless-CMS-test-main/Headless-CMS-test-main/assets"
+      ],
+      "assets/*": [
+        "C:/Users/nk707/Downloads/Headless-CMS-test-main/Headless-CMS-test-main/assets/*"
+      ],
+      "public": [
+        "C:/Users/nk707/Downloads/Headless-CMS-test-main/Headless-CMS-test-main/public"
+      ],
+      "public/*": [
+        "C:/Users/nk707/Downloads/Headless-CMS-test-main/Headless-CMS-test-main/public/*"
+      ]
+    }
+  },
+  "include": [
+    "C:/Users/nk707/Downloads/Headless-CMS-test-main/Headless-CMS-test-main/.nuxt/types/nitro-nuxt.d.ts",
+    "./types/nitro.d.ts",
+    "../**/*",
+    "../server/**/*"
+  ]
+}
