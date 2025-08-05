@@ -1,23 +1,13 @@
-Team Name: Three Wolves
-Team Members
-Navin Kumar (Leader)
+# Headless-CMS
 
-Suzal Verma (Member)
+Headless-CMS-project
 
-Manoj Chumber (Member)
+## Completed Tasks
 
-Headless CMS Project
-Completed Tasks
-✅ Headless CMS has been created and populated with review data. The data is available through a REST API.
-
-✅ The frontend consumes the data provided through the Headless CMS.
-
-✅ The static site displays a list of review titles (minimum of 10 reviews).
-
-✅ A search functionality allows users to quickly find reviews.
-
-✅ Clicking on a review opens a detailed page with the full review.
-
-✅ The site is responsive and optimized for multiple screen sizes.
-
-✅ The static site has been published publicly via Netlify Pages.
+- [x] Headless CMS must be created and populated with review data. The data must be made available through a REST API.
+- [x] The frontend must consume the data provided through the Headless CMS.
+- [x] The static site should display a list of review titles on the site. There should be a minimum of 10 reviews.
+- [x] A search functionality should be included to allow the user to quickly search the reviews.
+- [x] Clicking on a review should open a page with the full review.
+- [x] The site will be responsive and optimized to work on multiple screen sizes.
+- [x] The static site will be publicly published to the Netlify Pages.
